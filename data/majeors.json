@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Zilzila",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2010_Haiti_earthquake_destruction.jpg/640px-2010_Haiti_earthquake_destruction.jpg",
+    "description": "Yer osti silkinishi natijasida yuzaga keladigan tabiiy ofat.",
+    "category": "zilzila",
+    "bigCategory": "Tabiiy ofatlar"
+  },
+  {
+    "name": "To‘fon",
+    "img": "https://images.unsplash.com/photo-1500674425229-f692875b0ab7",
+    "description": "Kuchli shamol va yomg‘ir bilan kechuvchi xavfli tabiiy hodisa.",
+    "category": "to‘fon",
+    "bigCategory": "Tabiiy ofatlar"
+  },
+  {
+    "name": "Urush",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Battle_of_Wagram.jpg/640px-Battle_of_Wagram.jpg",
+    "description": "Davlatlar yoki guruhlar o‘rtasidagi qurolli to‘qnashuv.",
+    "category": "urush",
+    "bigCategory": "Siyosiy hodisalar"
+  },
+  {
+    "name": "Terrorchilik hujumi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2016_Nice_attack_aftermath_03.jpg/640px-2016_Nice_attack_aftermath_03.jpg",
+    "description": "Xavfli qurolli hujum yoki portlash.",
+    "category": "terror",
+    "bigCategory": "Siyosiy hodisalar"
+  },
+  {
+    "name": "Karantin",
+    "img": "https://images.unsplash.com/photo-1584036561584-b03c19da874c",
+    "description": "Yuqimli kasallik tarqalishini oldini olish uchun cheklov.",
+    "category": "karantin",
+    "bigCategory": "Davlat cheklovlari"
+  },
+  {
+    "name": "Import taqiqi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Stop_sign_light_red.svg/640px-Stop_sign_light_red.svg.png",
+    "description": "Muayyan mahsulotlarni olib kirishga qo‘yilgan davlat taqiqi.",
+    "category": "import",
+    "bigCategory": "Davlat cheklovlari"
+  }
+]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Force Majeure Platform - Dashboard</title>
+  <link href="./css/style.css" rel="stylesheet" />
+</head>
+<body>
+  <header>
+    <h2>Force Majeure Dashboard</h2>
+    <button id="logoutBtn">Logout</button>
+  </header>
+
+  <div class="container">
+    <aside id="sidebar"></aside>
+    <main>
+      <div id="addForceMajeureSection" class="add-section hidden">
+        <h3>Add Force Majeure</h3>
+        <form id="addForm">
+          <input type="text" id="fmName" placeholder="Name" required />
+          <input type="url" id="fmImg" placeholder="Image URL" required />
+          <textarea id="fmDescription" placeholder="Description" rows="3" required></textarea>
+          <input type="text" id="fmCategory" placeholder="Category" required />
+          <input type="text" id="fmBigCategory" placeholder="Big Category" required />
+          <button type="submit">Add</button>
+        </form>
+      </div>
+
+      <div id="cardsContainer" class="cards-container"></div>
+    </main>
+  </div>
+
+  <script src="./js/data.js"></script>
+  <script src="./js/main.js"></script>
+</body>
+</html>
