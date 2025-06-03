@@ -8,114 +8,93 @@ window.forceData = [
   },
   {
     name: "Storm",
-    img: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Severe_storm.jpg",
+    img: "https://www.timeforkids.com/wp-content/uploads/2018/08/Storms-Images.jpg",
     description: "A dangerous natural event involving strong winds and heavy rain.",
     category: "Storm",
     bigCategory: "Natural Disasters"
   },
   {
     name: "Flood",
-    img: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flood_Destruction_Memphis_TN_2011.jpg",
+    img: "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2ZsYXNoLWZsb29kLXVwZGF0ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==",
     description: "Overflow of water onto land due to heavy rain or water flow.",
     category: "Flood",
     bigCategory: "Natural Disasters"
   },
   {
     name: "Wildfire",
-    img: "https://upload.wikimedia.org/wikipedia/commons/0/03/Wildfire_in_Southern_California_2007.jpg",
+    img: "https://live-production.wcms.abc-cdn.net.au/d50485aa70ffa922f41a39f62ffe9b87?impolicy=wcms_crop_resize&cropH=698&cropW=1241&xPos=0&yPos=65&width=862&height=485",
     description: "Fast-spreading fire in forests or deserts.",
     category: "Wildfire",
     bigCategory: "Natural Disasters"
   },
   {
     name: "Drought",
-    img: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Drought_effects_in_Ethiopia_2008.jpg",
+    img: "https://images.nationalgeographic.org/image/upload/v1691174996/EducationHub/photos/drought-encylopedic-entry.jpg",
     description: "A natural disaster due to prolonged lack of rainfall.",
     category: "Drought",
     bigCategory: "Natural Disasters"
   },
   {
     name: "Tsunami",
-    img: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Tsunami_Indonesia_2004.jpg",
+    img: "https://static.toiimg.com/thumb/msid-121391185,width-1280,height-720,resizemode-4/121391185.jpg",
     description: "Large sea waves caused by underwater tremors.",
     category: "Tsunami",
     bigCategory: "Natural Disasters"
   },
   {
     name: "War",
-    img: "https://upload.wikimedia.org/wikipedia/commons/7/7f/War_destruction.jpg",
+    img: "https://www.rand.org/content/rand/pubs/research_briefs/RB10040/_jcr_content/par/product/par-research-brief/imagewithclass_46844854.fit.1000x0.jpeg/1568254441849.jpeg",
     description: "Armed conflict between countries or groups.",
     category: "War",
     bigCategory: "Political Events"
   },
   {
     name: "Terrorist Attack",
-    img: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Explosion_aftermath.jpg",
+    img: "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7285/production/_89871392_89871391.jpg",
     description: "A dangerous attack involving weapons or explosions.",
     category: "Terrorist Attack",
     bigCategory: "Political Events"
   },
   {
     name: "Revolution",
-    img: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Egypt_Revolution_2011_-_Tahrir_Square_14_February_2011_%283%29.jpg",
+    img: "https://humanities.princeton.edu/wp-content/uploads/2017/09/Jonathan-Israel.jpg",
     description: "Public unrest aimed at changing the government.",
     category: "Revolution",
     bigCategory: "Political Events"
   },
   {
     name: "Pandemic",
-    img: "https://upload.wikimedia.org/wikipedia/commons/e/ef/COVID-19_World_Map_-_March_2020.svg",
+    img: "https://media.springernature.com/lw725/springer-cms/rest/v1/content/19125994/data/v1",
     description: "A disease outbreak that spreads worldwide.",
     category: "Pandemic",
     bigCategory: "Health"
   },
   {
     name: "Industrial Disaster",
-    img: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Chernobyl_Nuclear_Power_Plant_Accident.jpg",
+    img: "https://cen.acs.org/content/dam/cen/101/web/11/WEB/20231117lnp2-fire.jpg",
     description: "Major accidents during industrial operations.",
     category: "Industrial Disaster",
     bigCategory: "Technological Events"
   },
   {
     name: "Power Outage",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Blackout_2003_Cleveland.jpg",
+    img: "https://images.squarespace-cdn.com/content/v1/5cc9d678797f74514e09078f/1e98412b-26f8-48fb-b623-32e237a5daf8/Power-Outage.jpg",
     description: "Long-term interruption of electricity supply.",
     category: "Power Outage",
     bigCategory: "Technological Events"
   },
   {
     name: "Internet Outage",
-    img: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Internet_access_world_map.png",
+    img: "https://topnotchcomputers.com/wp-content/uploads/2024/10/Capture-6.png",
     description: "Temporary unavailability of internet service.",
     category: "Internet Outage",
     bigCategory: "Technological Events"
   },
   {
     name: "Company Bankruptcy",
-    img: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bankruptcy_Stock_Exchange.jpg",
+    img: "https://attorneycordero.com/wp-content/uploads/2020/05/The-Hidden-Benefits-of-Declaring-Corporate-Bankruptcy.Featured-1080x630.jpeg",
     description: "A large company experiencing financial failure and closure.",
     category: "Bankruptcy",
     bigCategory: "Economic Events"
-  },
-  {
-    name: "Economic Crisis",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Great_Depression_street_scene_1930s.jpg",
-    description: "Severe decline in national or global economy.",
-    category: "Crisis",
-    bigCategory: "Economic Events"
-  },
-  {
-    name: "Transport Accident",
-    img: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Train_crash_c1970s.jpg",
-    description: "Accidents involving passenger or freight transport.",
-    category: "Transport Accident",
-    bigCategory: "Technological Events"
-  },
-  {
-    name: "Regional Conflict",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/97/Conflict_in_Syria_2012.jpg",
-    description: "Armed conflicts and tensions in a specific region.",
-    category: "Conflict",
-    bigCategory: "Political Events"
   }
 ];
