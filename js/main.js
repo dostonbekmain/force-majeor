@@ -92,16 +92,16 @@ function renderSidebar() {
 
 
     // Add "All" category on top
-    const allDiv = document.createElement('div');
-    allDiv.textContent = 'All';
-    allDiv.className = 'category-item';
-    if (!currentCategory) allDiv.classList.add('active');
-    allDiv.addEventListener('click', () => {
-        currentCategory = null;
-        renderSidebar();
-        renderCards();
-    });
-    sidebar.insertBefore(allDiv, sidebar.firstChild);
+    // const allDiv = document.createElement('div');
+    // allDiv.textContent = '';
+    // allDiv.className = 'category-item';
+    // if (!currentCategory) allDiv.classList.add('active');
+    // allDiv.addEventListener('click', () => {
+    //     currentCategory = null;
+    //     renderSidebar();
+    //     renderCards();
+    // });
+    // sidebar.insertBefore(allDiv, sidebar.firstChild);
 }
 
 // Render cards according to currentCategory

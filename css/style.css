@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f5f7fa;
   color: #333;
 }
 
@@ -306,4 +305,27 @@ main {
     margin: 0 8px;
     text-align: center;
   }
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background: transparent;
+}
+
+.notification{
+  background: rgb(18, 17, 43);
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 4px 4px;
+}
+.notification img{
+  width: 24px;
+  background: transparent;
+  height: 24px;
+}
+.notification:hover{
+  background: #050a0e;
 }
